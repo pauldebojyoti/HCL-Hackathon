@@ -1,5 +1,7 @@
 # RAG-Powered Assistant
 
+This readme contains the initial design of the RAG-Powered Assistant for HCL_Hackathon.
+
 A Retrieval-Augmented Generation (RAG) assistant designed to answer questions based on a custom document corpus using LLM and vector similarity search.
 
 ## System Architecture
@@ -45,7 +47,7 @@ A Retrieval-Augmented Generation (RAG) assistant designed to answer questions ba
 | **Backend** | Python with Streamlit |
 | **Embeddings** | Hugging Face sentence-transformers |
 | **Vector Store** | FAISS (local) |
-| **LLM** | Hugging Face Transformers / OpenAI API |
+| **LLM** | Hugging Face Transformers(open source llm) / OpenAI API |
 | **Document Processing** | LangChain, PyPDF2/pypdf |
 | **Deployment** | Streamlit Cloud / Azure Container Instances/ AWS |
 | **Version Control** | GitHub |
