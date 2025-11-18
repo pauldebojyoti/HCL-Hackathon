@@ -1,5 +1,7 @@
 # RAG-Powered Assistant
 
+deployed on stremlit cloud: https://ragpoweredassistant-iqkhwj8tqstkqru4fxfqss.streamlit.app/
+
 This readme contains the initial design of the RAG-Powered Assistant for HCL_Hackathon.
 
 A Retrieval-Augmented Generation (RAG) assistant designed to answer questions based on a custom document corpus using LLM and vector similarity search.
